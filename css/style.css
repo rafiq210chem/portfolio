@@ -318,8 +318,8 @@ label {
 }
 
 .hero .hero-image img {
-    max-width: 70%;
-    max-height: 70%;
+    max-width: 67%;
+    max-height: 67%;
 }
 
 .hero .hero-content {
@@ -1751,3 +1751,4 @@ label {
         border-radius: none;
     }
 }
+
