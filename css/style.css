@@ -922,7 +922,7 @@ label {
     
     .hero {
       height: 650px;
-      background: linear-gradient(rgba(51, 51, 51, 0.04), rgba(0, 0, 0, 0.82)), url("../img/mbl-hero-04.png");
+      background: linear-gradient(rgba(51, 51, 51, 0.04), rgba(0, 0, 0, 0.82)), url("../img/mbl-hero-022-02-01.png");
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -1751,4 +1751,5 @@ label {
         border-radius: none;
     }
 }
+
 
